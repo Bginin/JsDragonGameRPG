@@ -3,6 +3,7 @@ body {
     background-position: 50% 30%;
     margin: auto;
     display: flex;
+    font-size: 1.3rem
   }
   #text {
     background-color: #b5b5f4;
@@ -11,7 +12,6 @@ body {
   #game {
     max-width: 500px;
     height: 300px;
-    
     color: #ffffff;
     margin: 30px auto 0px auto;
     padding: 10px;
